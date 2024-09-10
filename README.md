@@ -1,8 +1,32 @@
-# React + Vite
+# First Task in my one month internship at Prodigy InfoTech.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is part of my portfolio project.it is a responsive navbar.
 
-Currently, two official plugins are available:
+## How to Set Up and Run This Project
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Follow these steps to set up and run the navbar project on your local machine:
+
+1. **Create a new directory** on your computer.
+   
+2. **Navigate to your directory** using git:
+   ```bash
+   cd [path-to-your-directory]
+   ```
+3. **Clone this repository** by running the following command in git:
+   ```bash
+   git clone https://github.com/NajiLameh/Prodigy_WD_1_ResponsiveLandingPage.git
+   ```
+4. **Navigate to the project directory**:
+   ```bash
+   cd Prodigy_WD_1_ResponsiveLandingPage
+   ```
+5. **Install the necessary dependencies** by running:
+   ```bash
+   npm install
+   ```
+7. **Start the project**:
+   ```bash
+   npm run dev
+   ```
+
+After completing these steps, this navbar should be running locally on your machine and can be used in your code.
