@@ -18,6 +18,12 @@ function App() {
         {page === "experience" && <Experience />}
         {page === "contact-us" && <ContactUs />}
       </div>
+      <div
+        className="prodigy-name"
+        style={{ position: "absolute", bottom: 10, right: "11%" }}
+      >
+        Prodigy InfoTech First Task - Responsive NavBar
+      </div>
     </main>
   );
 }
